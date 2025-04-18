@@ -1,6 +1,4 @@
-import Image from 'next/image'
-import Carousel from './Carousel';
-import ImageLayout from './ImageLayout';
+
 import ResponsiveComponent from './ResponsiveComponent';
 
 const Section = () => {

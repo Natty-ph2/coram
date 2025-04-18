@@ -16,31 +16,6 @@ const Carousel = () => {
         arrows: false,
     };
 
-//     return (
-//         <div className="w-auto max-w-2xl mx-auto ">
-//             <Slider {...settings}>
-//                 <div>
-//                     <img src="/investmentgroup.png" alt="Slide 1" className="w-full  rounded-lg" />
-//                 </div>
-//                 <div className="flex items-center justify-center">
-//                     <img src="/agri1.jpg" alt="Slide 2" className="w-full rounded-lg" />
-//                 </div>
-//                 <div>
-//                     <img src="/health1.jpg" alt="Slide 3" className="w-full rounded-lg" />
-//                 </div>
-//                 <div>
-//                     <img src="/realestate1.jpg" alt="Slide 4" className="w-full rounded-lg" />
-//                 </div>
-//                 <div>
-//                     <img src="/manu1.jpg" alt="Slide 5" className="w-full rounded-lg" />
-//                 </div>
-//                 {/* <div>
-//                     <img src="/" alt="Slide 3" className="w-full rounded-lg" />
-//                 </div> */}
-//             </Slider>
-//         </div>
-//     );
-// };
 
 
 
