@@ -43,7 +43,7 @@ const companiesData = [
         id: 6,
         name: 'V- Ventures',
         img: '/vventure.png',
-        desc: 'Where Tranquility Meets Your Dream Home'
+        desc: 'Empowering Startups and Small Businesses'
     },
 
 
