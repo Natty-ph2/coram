@@ -16,9 +16,9 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "Vera Investment Group",
   icons: {
-    icon: "/investmentgroup.png",
-    shortcut: "/investmentgroup.png",
-    apple: "/investmentgroup.png",
+    icon: "/veraicon.png",
+    shortcut: "/veraicon.png",
+    apple: "/veraicon.png",
   },
   description: "Vera Investment Group is a conglomerate of diverse businesses passionate about transforming lives, helping our community, and making a lasting impact. Our mission is to serve and inspire positive change in our community.",
   keywords: [
