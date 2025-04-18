@@ -31,7 +31,6 @@ export const metadata: Metadata = {
     "Vera Investment Group",
   ]
 };
-
 export default function RootLayout({
   children,
 }: Readonly<{
