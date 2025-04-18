@@ -1,4 +1,4 @@
-import Image from "next/image";
+
 import Section from "./components/Section";
 import Companies from "./components/Companies";
 import Projects from "./components/Projects";

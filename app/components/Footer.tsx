@@ -1,26 +1,4 @@
 
-// const Footer = () => {
-//   return (
-//     <footer className="bg-gray-800 text-white py-4">
-//         <div>
-//             <div className="container mx-auto">
-//                 <h2 className="text-2xl font-bold mb-4">Vera Investment Group</h2>
-//                 <p className="mb-4">Investing in the future, today.</p>
-//                 <p className="mb-4">Follow us on:</p>
-//                 <div className="flex items-center justify-center space-x-4">
-//                 <a href="#" className="text-gray-400 hover:text-white">Facebook</a>
-//                 <a href="#" className="text-gray-400 hover:text-white">Twitter</a>
-//                 <a href="#" className="text-gray-400 hover:text-white">LinkedIn</a>
-//                 </div>
-//             </div>
-//         </div>
-//         <div className="container mx-auto text-center">
-//         <p>&copy; {new Date().getFullYear()} Vera Investment Group. All rights reserved.</p>
-//       </div>
-//     </footer>
-//   );
-// }
-// export default Footer;
 
 
 const Footer = () => {

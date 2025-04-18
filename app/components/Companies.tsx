@@ -51,26 +51,6 @@ const companiesData = [
 ]
 
 
-// const Companies = () => {
-//     return(
-//         <div className="w-full mx-auto p-5">
-//             <h1 className="text-6xl font-bold text-center mb-8 p-5">Our Companies</h1>
-//             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 2xl:grid-cols-6 gap-6">
-//                 {companiesData.map(company => (
-//                     <div key={company.id} className="flex flex-col items-center justify-center">
-//                         <Image className=" w-32 h-32 objec-fit" 
-//                              src={company.img} alt={company.name} 
-//                              width={200} 
-//                              height={200} 
-//                         />
-//                         <h1 className="text-lg font-bold">{company.name}</h1>
-//                         <p>{company.desc}</p>
-//                     </div>
-//                 ))}
-//             </div>
-//         </div>
-//     )
-// }
 
 const Companies = () => {
     return (

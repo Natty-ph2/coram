@@ -1,41 +1,4 @@
-// import Image from "next/image";
 
-// const NavBar = () => {
-//     return(
-//         <div className="relative grid grid-cols-3  items-center p-5 ">
-//             <div className="flex items-center ">
-//                 <Image src="/investmentgroup.png" alt="logo" width={120} height={120} />
-//                 {/* <div className="">
-//                     <h1 className="">VERA</h1>
-//                     <p> Investment Group</p>
-//                 </div> */}
-    
-//             </div>
-
-           
-
-//             <div className=" pl-15">
-//                 <ul className="flex gap-15">
-//                     <li>Home</li>
-//                     <li>Companies</li>
-//                     <li>Services</li>
-//                     <li>Projects</li>
-//                     <li>Blogs</li>
-//                     <li>About</li>
-                    
-                    
-//                 </ul>
-//             </div>
-
-//             <div className="absolute top-15 right-5">
-//                 <button className="  p-2 rounded-lg">Contact Us</button>
-//             </div>
-           
-//         </div>
-//     )
-// }
-
-// export default NavBar;
 
 
 'use client';
